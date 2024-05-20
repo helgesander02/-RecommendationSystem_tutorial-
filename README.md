@@ -12,8 +12,10 @@
 * [Learning Resources (Chinese)](https://zhuanlan.zhihu.com/p/180542782)
 * [Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph](https://arxiv.org/pdf/2402.13750)
 
-### Recall
+### AB testing
 * [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36500.pdf)
+
+### Recall
 
 ### Coarse Ranking
 
