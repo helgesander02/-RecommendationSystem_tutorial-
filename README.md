@@ -5,6 +5,7 @@ The goal is to create a system that can rival the performance of Xiaohongshu's r
 
 ### Steps for a recommendation system
 ![alt text](https://github.com/helgesander02/recommendationsystem_study/blob/main/img/process.jpg)
+
 ### Experimental Steps for the TMDB 5000 Movie Dataset
 
 ## Data
@@ -17,7 +18,7 @@ The goal is to create a system that can rival the performance of Xiaohongshu's r
 * [Why study recommender systems (Chinese)](https://www.youtube.com/playlist?list=PLCemT-oocgalODXpQ-EP_IfrrD-A--40h)
 * [RecommenderSystem (Chinese)](https://github.com/wangshusen/RecommenderSystem)
 * [Learning Resources (Chinese)](https://zhuanlan.zhihu.com/p/180542782)
-* [Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph](https://arxiv.org/pdf/2402.13750)
+* [Adaptive Neural Ranking Framework: Toward Maximized Business Goal for Cascade Ranking Systems](https://arxiv.org/pdf/2310.10462)
 
 ### AB testing
 * [Overlapping Experiment Infrastructure:More, Better, Faster Experimentation](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36500.pdf)
