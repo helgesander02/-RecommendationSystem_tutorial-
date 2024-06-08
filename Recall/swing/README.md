@@ -1,1 +1,1 @@
-![alt text](https://github.com/helgesander02/recommendationsystem_study/blob/main/img/swing1.jpg)
+![alt text](https://github.com/helgesander02/recommendationsystem_study/blob/main/Recall/img/swing1.jpg)
